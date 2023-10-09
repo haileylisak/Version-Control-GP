@@ -1,0 +1,6 @@
+License: Apache License
+We chose the Apache License because we feel it is appropriate to allow users to do what they please with our work. We give them the base, and the users can expand and make it their own. It allows the user to personalize the program to work with their needs.
+
+
+Code of Conduct: Contributer Covenant Code of Conduct
+We chose this code of conduct for multiple reasons. It makes sure that the users know that they are free to use our work no matter "age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation." This important to us and we want everyone to be included and feel safe while working with us. Also, we liked this code of conduct because it not only hit the "dos", but it also hit specific "don'ts".
